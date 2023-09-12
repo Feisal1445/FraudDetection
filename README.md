@@ -44,11 +44,3 @@ Testing data for valid transaction can be found in the ***"valid_transactions.cs
 
 Run the web app by using the command "python3 app.py" and click the link in the terminal.
 
-To Contact Us:
-- Gajendra Saraswat
-    - [Kaggle](https://www.kaggle.com/sarques)    
-    - [LinkedIn](https://www.linkedin.com/in/gajendra-saraswat-221102165/)
-    - [Twitter](https://twitter.com/Saarques)
-- Ravikant Vijayvargiya
-    - [Kaggle](https://www.kaggle.com/hungrywolf)
-    - [LinkedIn](https://www.linkedin.com/in/ravikant-vijayvargiya/)
